@@ -1,5 +1,7 @@
 ### Hello World, I am Brick Lai, a software development student based in Winnipeg, Canada. 👋
 
+<img src="Winnipeg city.png">
+
 Brick is brand new in coding, however, he chooses software development as his major. Software has played a more and more important role in people’s daily life, it looks so magical, other people outside of the IT industry like Brick also have the curiosity to know more about coding logic, also he enjoys the feeling to create a fascinating web page or a pretty useful application. 
 
 Brick has a wide range of hobbies, he likes reading, watching movies, playing computer games, hiking, and bicycle riding, he likes to explore some new fields, and learning coding is also a kind of exploring for him. 
