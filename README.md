@@ -14,6 +14,8 @@ Brick has a wide range of hobbies, he likes reading, watching movies, playing co
 
 <p>My status<p>
   <img src="https://repobeats.axiom.co/api/embed/6322e7e8a3b1ca45a80960cc193924753b267d8b.svg">
+  
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
 
 <!--
 **BrickLai/BrickLai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
