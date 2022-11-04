@@ -7,7 +7,7 @@ Brick is brand new in coding, however, he chooses software development as his ma
 Brick has a wide range of hobbies, he likes reading, watching movies, playing computer games, hiking, and bicycle riding, he likes to explore some new fields, and learning coding is also a kind of exploring for him. 
 
 MY skills
-<a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">HTML</a>
+<a href="#">img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</a>
 
 
 
